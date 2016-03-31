@@ -1,4 +1,4 @@
-Opening: ![ALT](/OpeningSeq.png "Opening")
+Opening: ![Alt text](opening.png?raw=true "Opening")
 
 **strong** License:
 The MIT License (MIT)
